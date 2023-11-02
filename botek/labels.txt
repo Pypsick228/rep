@@ -1,0 +1,4 @@
+0 Desert
+1 Semi-Desert
+2 Steppe
+3 Monsoon Forest
